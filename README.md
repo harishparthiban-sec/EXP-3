@@ -46,7 +46,7 @@ Direct connection: CIRCUIT DIAGRAM:
 Tabulation:1
 
 
-	<img width="534" height="728" alt="image" src="https://github.com/user-attachments/assets/8e3cdf45-7938-4d8e-b2fc-20bac33595a6" />
+<img width="534" height="728" alt="image" src="https://github.com/user-attachments/assets/8e3cdf45-7938-4d8e-b2fc-20bac33595a6" />
 
 Cross connection: CIRCUIT DIAGRAM:
 
